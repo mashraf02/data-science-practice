@@ -12,6 +12,7 @@ data-science-practice/
 ├── pandas_tutorial.ipynb
 ├── matplotlib_tutorial.ipynb
 ├── seaborn_tutorial.ipynb
+├── Valentine_spending.ipynb
 └── README.md
 
 
@@ -44,6 +45,11 @@ data-science-practice/
 - Creating scatter plots with hue (color by species)
 - Setting plot styles
 - Beautiful statistical visualizations
+
+### 5. `Valentine_spending.ipynb`
+- This analyzes how spending behavior varies based on different moods such as Happy, Excited, Sad, and Neutral.
+- A boxplot visualization is used to show the distribution, median, and variability of spending across each mood category.
+- The analysis helps identify patterns in emotional spending and provides insights into how mood influences financial decisions.
 
 ## 🛠 Technologies Used
 
