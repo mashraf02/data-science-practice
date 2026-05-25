@@ -1,25 +1,23 @@
+# Student Performance Prediction
 
-# Student Cluster Regression
-
-A beginner-friendly Machine Learning project that combines:
-
-- Clustering
-- Regression
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+A beginner-friendly Machine Learning project for predicting student academic performance using data analysis and predictive modeling techniques.
 
 ## Overview
 
-This project demonstrates how clustering techniques and regression models can be used together to analyze student-related data and generate insights.
+This project focuses on:
+- Data preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Machine Learning model training
+- Performance evaluation
 
 ## Features
 
-- Data preprocessing
-- Exploratory Data Analysis
-- Clustering implementation
-- Regression modeling
-- Visualization of results
-- Beginner-friendly explanations
+- Clean and understandable workflow
+- Beginner-friendly implementation
+- Visualization of student data
+- Predictive modeling using regression/classification
+- Model evaluation metrics
 
 ## Technologies Used
 
@@ -33,8 +31,7 @@ This project demonstrates how clustering techniques and regression models can be
 ## Project Structure
 
 ```bash
-student_cluster_regression/
+student_performance_prediction/
 │
-├── student_cluster_regression.ipynb
+├── student_performance_prediction.ipynb
 ├── README.md
-└── dataset/
